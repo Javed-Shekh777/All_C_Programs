@@ -1,0 +1,3 @@
+Name    = javed
+Age = 18
+Salary = 999999.000000

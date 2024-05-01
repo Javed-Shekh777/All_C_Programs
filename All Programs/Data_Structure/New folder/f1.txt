@@ -1,0 +1,4 @@
+Hello Student
+>>>>>>>>>>>>>>>>>>>>>> STUDENT RECORD MENU>>>>>>>>>>>>>>>>>>>
+Name               Father Name      Branch       Roll No            Marks
+Javed Akhtar        MOHD Zuber       C.S & E     22213035500038        1136
